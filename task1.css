@@ -1,0 +1,48 @@
+.row1{
+     background-color:grey;
+     color:white;
+}
+.row1 #left{
+     border-right: 1px solid black;
+}
+.row1 #right{
+     padding-left: 15px;
+}
+.row2{
+     background-color: yellow;
+}
+.row2 #left{
+     color:red;
+     padding-left: 15px;
+     font-size: 1.3em;
+     
+}
+.row2 #right{
+     color:blue;
+     padding-left: 15px;
+     font-size: 1.3em;
+}
+.row3{
+     color:green;
+     background-color: lightgreen;
+}
+.row4,.row5{
+     background-color: white;
+     color: brown;
+}
+
+.row6,.row7{
+     background-color: yellow;
+     color:black;
+}
+.row8{
+     background-color: lightgreen;
+     color: red;
+     font-weight: bold;
+}
+#price{
+     width: 150px;
+}
+#name{
+     width: 200px;
+}
